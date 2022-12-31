@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mozhgan-peyvandian
 - 👀 I’m interested in programing and learning
-- 🌱 I’m android developer with +5 years expreience
+- 🌱 I’m android developer with +5 years experience
 - 💞️ I’m looking to collaborate on PART Financial Data Processing
 - 📫 How to reach me https://www.linkedin.com/in/mozhganpeyvand/#
 
