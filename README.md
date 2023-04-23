@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mozhgan-peyvandian
+- 👋 Hi, I’m Mozhgan Peyvandian
 - 👀 I’m interested in programing and learning
 - 🌱 I’m android developer with +5 years experience
 - 💞️ I’m working with PART Financial Data Processing
